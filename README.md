@@ -19,6 +19,9 @@ Folder Structure
 After opening Cypress for the first time, you'll notice a new folder cypress created with the following structure:
 
 cypress/fixtures: Test data that can be used in your tests.
+
 cypress/integration: Where your test files (specs) will go.
+
 cypress/plugins: Plugins for extending Cypress functionality.
+
 cypress/support: Commands and configurations that are globally available to your tests.
